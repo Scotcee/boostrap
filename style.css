@@ -20,7 +20,7 @@
 }
 #hero_section_first{
     background: rgb(255, 255, 255);
-    background-image: url(/img/hero-bg.jpg);
+    background-image: url(../one_page/img/hero-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
